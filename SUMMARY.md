@@ -1,22 +1,27 @@
 # Table of contents
 
-## Our Vision
+## Intro
 
-* [Universal Earth Income](README.md)
+* [Vision, Mission & Values](README.md)
+* [Universal Earth Income](intro/universal-earth-income.md)
+* [Reinventing Ownership - From traditional businesses to DAO communities](intro/reinventing-ownership-from-traditional-businesses-to-dao-communities.md)
 
-## Circles Currency
+## Circles Currencies
 
-* [Money Creation](circles-currency/money-creation/README.md)
-  * [Time Circles](circles-currency/money-creation/time-circles.md)
-  * [Demurrage](circles-currency/money-creation/demurrage.md)
-  * [Simulations](circles-currency/money-creation/simulations.md)
-* [Transferring Money](circles-currency/transferring-money/README.md)
-  * [Personal Currencies](circles-currency/transferring-money/personal-currencies.md)
-  * [Verification Services](circles-currency/transferring-money/verification-services.md)
-  * [Group Currencies](circles-currency/transferring-money/group-currencies.md)
-  * [Payment Hierachy](circles-currency/transferring-money/payment-hierachy.md)
-* [Social Pricing Contract](circles-currency/social-pricing-contract.md)
-* [Co-Payment Contract](circles-currency/co-payment-contract.md)
+* [Abstract](circles-currencies/abstract.md)
+* [Money Creation](circles-currencies/money-creation/README.md)
+  * [Time Circles](circles-currencies/money-creation/time-circles.md)
+  * [Demurrage](circles-currencies/money-creation/demurrage.md)
+  * [Simulations](circles-currencies/money-creation/simulations.md)
+* [Types Of Currencies](circles-currencies/types-of-currencies/README.md)
+  * [Personal Currencies](circles-currencies/types-of-currencies/personal-currencies.md)
+  * [Organisation Currencies](circles-currencies/types-of-currencies/organisation-currencies.md)
+  * [Regional Currencies](circles-currencies/types-of-currencies/regional-currencies.md)
+* [Transferring Money](circles-currencies/transferring-money/README.md)
+  * [Verification Services](circles-currencies/transferring-money/verification-services.md)
+  * [Payment Hierachy](circles-currencies/transferring-money/payment-hierachy.md)
+* [Social Pricing Contract](circles-currencies/social-pricing-contract.md)
+* [Co-Payment Contract](circles-currencies/co-payment-contract.md)
 
 ## Product
 
