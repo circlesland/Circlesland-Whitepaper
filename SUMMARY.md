@@ -43,7 +43,6 @@
   * [Conviction Voting](governance/circlesland-dao/conviction-voting.md)
   * [Token Supply](governance/circlesland-dao/token-supply.md)
   * [Token Distribution](governance/circlesland-dao/token-distribution.md)
-  * [Token Economics](governance/circlesland-dao/token-economics.md)
 * [Circles OS Foundation](governance/circles-os-foundation.md)
 * [Circles Regions](governance/circles-regions/README.md)
   * [Germany](governance/circles-regions/germany/README.md)
