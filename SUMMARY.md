@@ -25,17 +25,17 @@
 
 ## Product
 
-* [Circlesland OS](product/circles-os/README.md)
-  * [Whitelabel OS](product/circles-os/whitelabel-lego.md)
-  * [Human Passport](product/circles-os/safe-wallet.md)
-  * [Native Dapps](product/circles-os/native-dapps/README.md)
+* [Circlesland Browser](product/circles-os/README.md)
+  * [OS + Kernel](product/circles-os/whitelabel-lego.md)
+  * [Human Passport](product/safe-wallet.md)
+  * [Native Dapps](product/circles-os/native-dapps.md)
     * [Campaign Dapp](product/circles-os/native-dapps/campaign-dapp.md)
     * [Banking Dapp](product/circles-os/native-dapps/banking-dapp.md)
     * [Market Dapp](product/circles-os/native-dapps/market-dapp.md)
-  * [3rd Party Dapps](product/circles-os/3rd-party-dapps/README.md)
+  * [3rd Party Dapps](product/circles-os/3rd-party-dapps.md)
     * [Circles Bavaria](product/circles-os/3rd-party-dapps/circles-bavaria.md)
     * [Circles Bali](product/circles-os/3rd-party-dapps/circles-bali.md)
-  * [Web3 Safe Dapps](product/circles-os/web3-safe-dapps/README.md)
+  * [Web3 Safe Dapps](product/circles-os/web3-safe-dapps.md)
     * [Ramp Network](product/circles-os/web3-safe-dapps/ramp-network.md)
     * [COW-Swap](product/circles-os/web3-safe-dapps/cow-swap.md)
 * [Viral Campaign Logic](product/viral-campaign-logic/README.md)
