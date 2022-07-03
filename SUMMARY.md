@@ -26,9 +26,11 @@
 ## Product
 
 * [Circlesland Browser](product/circles-os/README.md)
-  * [OS + Kernel](product/circles-os/whitelabel-lego.md)
+  * [Operating System](product/circles-os/whitelabel-lego/README.md)
+    * [Kernel](product/circles-os/whitelabel-lego/kernel.md)
+    * [Dapp Builder](product/circles-os/whitelabel-lego/dapp-builder.md)
+    * [Human Passport](product/circles-os/whitelabel-lego/safe-wallet.md)
   * [Native Dapps](product/circles-os/native-dapps.md)
-    * [Human Passport Dapp](product/circles-os/native-dapps/safe-wallet.md)
     * [Campaign Dapp](product/circles-os/native-dapps/campaign-dapp.md)
     * [Banking Dapp](product/circles-os/native-dapps/banking-dapp.md)
     * [Market Dapp](product/circles-os/native-dapps/market-dapp.md)
